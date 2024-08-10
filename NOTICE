@@ -1,0 +1,14 @@
+Third-partiy software is placed under data/mmlu and utils/thirdparty in this repository. The license from original repositories are copied and placed under the corresponding subdirectories.
+
+Source 1. LoRA: https://github.com/microsoft/LoRA
+* Adam optimizer (utils/LoRA/adam.py)
+Modifications made by CentML Inc. is licensed under Apache License, Version 2.0. The original code is licensed under MIT License.
+* E2ENLG dataset (utils/LoRA/e2enlg.py)
+* GPT2 model (utils/LoRA/gpt.py)
+
+Source 2. qlora: https://github.com/artidoro/qlora
+* MMLU dataset (data/mmlu)
+* LLaMA model utils (utils/qlora/llama.py)
+* MMLU benchmark (utils/qlora/mmlu.py)
+* OASST1 dataset (utils/qlora/oasst1.py)
+
