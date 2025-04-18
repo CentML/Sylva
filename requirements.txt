@@ -4,6 +4,6 @@ evaluate==0.4.2
 scikit-learn==1.5.1
 sentencepiece==0.2.0
 setuptools==72.1.0
-torch==2.4.0
+torch==2.6.0
 transformers==4.43.3
 triton==3.0.0
